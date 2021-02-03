@@ -3,7 +3,7 @@ namespace EncapsulationInClass
 {
     public class BankAccount
     {
-        private double balance;
+        public double balance;
 
         public BankAccount(double amount)
         {
